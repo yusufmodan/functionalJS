@@ -5,13 +5,13 @@ Come here to solidify your understanding of functions and get started with funct
 
 ## Goals of this course
 
-The goal of the JavaScript Fundamentals part 1 and 2 is to give technical foundation and support for those who have been learning JavaScript for a couple of months, so that they will have reached a level required for the Hack Reactor admission's interviews.
+The goal of the JavaScript Fundamentals part 1 and 2 is to give technical foundation and support for those who have been learning JavaScript for a couple of months, so that they will have reached a level required for the MakerSquare admission's interviews.
 
-*IMPORTANT*: completion of the HRJR courses is no guarantee of admission, nor has any influence in the admissions process.
+*IMPORTANT*: completion of the MKSJR courses is no guarantee of admission, nor has any influence in the admissions process.
 
-It is our goal, however, that students who successfully complete the HRJR series will have covered all JavaScript topics necessary for the interview.
+It is our goal, however, that students who successfully complete the MKSJR series will have covered all JavaScript topics necessary for the interview.
 
-If Hack Reactor takes people from 60 to 120 in web development, then Hack Reactor Junior takes people from 10 to 60 ('coz we don't teach variables and the like).
+If MakerSquare takes people from 60 to 120 in web development, then MakerSquare Junior takes people from 10 to 60 ('coz we don't teach variables and the like).
 
 ## Prerequisites
 
